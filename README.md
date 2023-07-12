@@ -51,12 +51,12 @@ git subtree push --prefix dist origin gh-pages
 
 ### FontSize Check
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# H1: 32px
+## H2: 24px
+### H3: 20px
+#### H4: 16px
+##### H5: 14px
+###### H6: 13px
 
 
 
